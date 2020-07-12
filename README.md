@@ -13,7 +13,7 @@
 (1)、并发底层原理
 #
 (2)、网络编程
-*tcp/ip协议
+* tcp/ip协议
 #
 (3)、Netty编程
 #
@@ -82,13 +82,13 @@
 十、高性能存储
 -------
 (1)、数据库设计和选用
-*主从复制
-*分库分表
-*mycat
+* 主从复制
+* 分库分表
+* mycat
 #
 (2)、nosql
-*elasticsearch
-*mongdb
+* elasticsearch
+* mongdb
 #
 (3)、fastdfs文件存储
 #
