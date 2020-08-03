@@ -15,12 +15,11 @@
 (2)、网络编程
 * tcp/ip协议、udp协议
 #
-(3)、Netty编程
-1.[Netty框架简介](https://blog.csdn.net/eric_sunah/article/details/80424344)<br>
-2.[Netty组件简介](https://blog.csdn.net/eric_sunah/article/details/80424381)<br>
-3.[Netty的数据传输](https://blog.csdn.net/eric_sunah/article/details/80436184)<br>
-4.[线程模型](https://blog.csdn.net/eric_sunah/article/details/80437025)<br>
-5.[ByteBuf](https://blog.csdn.net/eric_sunah/article/details/80497831)<br>
+(3)、Netty编程<br>
+1.[Netty简介](https://www.cnblogs.com/kyleinjava/p/10396859.html)<br>
+2.[线程模型](https://blog.csdn.net/eric_sunah/article/details/80437025)<br>
+3.[Netty之Pipeline](https://blog.csdn.net/yewandemty/article/details/107006747)<br>
+4.[ByteBuf](https://blog.csdn.net/thinking_fioa/article/details/80795673)<br>
 #
 三、jvm浅谈
 -------
